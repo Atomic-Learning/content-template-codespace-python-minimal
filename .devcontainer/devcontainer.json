@@ -1,7 +1,6 @@
 {
   "name": "Python minimal",
   "image": "ghcr.io/atomic-learning/image-python-3-14-minimal",
-  "remoteUser": "vscode",
   "features": {},
   "customizations": {
     "vscode": {
