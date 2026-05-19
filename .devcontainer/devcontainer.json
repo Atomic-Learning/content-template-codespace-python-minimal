@@ -5,8 +5,6 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "test.ipynb",
-        "test.py"
       ]
     },
     "vscode": {
