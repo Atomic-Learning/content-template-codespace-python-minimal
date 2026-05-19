@@ -3,6 +3,12 @@
   "image": "ghcr.io/atomic-learning/image-python-3-14-minimal",
   "features": {},
   "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "test.ipynb",
+        "test.py"
+      ]
+    },
     "vscode": {
       "extensions": [
         "ms-python.python",
