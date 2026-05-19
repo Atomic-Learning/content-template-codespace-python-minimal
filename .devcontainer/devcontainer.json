@@ -2,6 +2,7 @@
   "name": "Python minimal",
   "image": "ghcr.io/atomic-learning/image-python-3-14-minimal",
   "features": {},
+  "postCreateCommand": "python -m pip install -r requirements.txt",
   "customizations": {
     "codespaces": {
       "openFiles": [
